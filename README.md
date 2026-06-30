@@ -74,3 +74,36 @@
 <img width="1448" height="315" alt="image" src="https://github.com/user-attachments/assets/9a2c5d05-72f0-41ed-b6be-333cf275edf7" />
 <img width="1905" height="533" alt="image" src="https://github.com/user-attachments/assets/3ca6ecc6-656e-4dd5-8489-3837aa9d9775" />
 
+---
+
+## Практическое задание с самопроверкой «GitLab»
+
+---
+
+### Задание 1
+
+Что нужно сделать:
+
+    Разверните GitLab локально, используя Vagrantfile и инструкцию, описанные в этом репозитории.
+    Создайте новый проект и пустой репозиторий в нём.
+    Зарегистрируйте gitlab-runner для этого проекта и запустите его в режиме Docker. Раннер можно регистрировать и запускать на той же виртуальной машине, на которой запущен GitLab.
+
+**Решение:**
+<img width="1409" height="472" alt="изображение" src="https://github.com/user-attachments/assets/7e9e5995-8535-40c3-bcc4-04b2f386612c" />
+
+---
+
+### Задание 2
+
+Что нужно сделать:
+
+    Запушьте репозиторий на GitLab, изменив origin. Это изучалось на занятии по Git.
+    Создайте .gitlab-ci.yml, описав в нём все необходимые, на ваш взгляд, этапы.
+
+**Решение:**
+<img width="1384" height="633" alt="изображение" src="https://github.com/user-attachments/assets/3a06bffc-3023-4faa-aa7e-c3f334d26dda" />
+<img width="1613" height="346" alt="изображение" src="https://github.com/user-attachments/assets/7cc0b366-b520-4cbd-947f-650827a703fd" />
+
+
+
+
